@@ -1,0 +1,11 @@
+let num1 = 10;
+let name = "Ramesh";
+let isPaid = true;
+let data = null;
+let lastName;
+console.log(lastName);
+console.log(typeof num1);
+console.log(typeof name);
+console.log(typeof isPaid);
+console.log(typeof data);
+console.log(typeof lastName);

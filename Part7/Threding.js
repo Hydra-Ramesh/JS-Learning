@@ -1,0 +1,1 @@
+// Mutithreading in JavaScript can be achieved using Web Workers. Below is an example of how to create and use a Web Worker to perform a simple task in a separate thread.
